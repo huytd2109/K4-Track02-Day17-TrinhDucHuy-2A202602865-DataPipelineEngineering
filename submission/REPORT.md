@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Trịnh Đức Huy/2A202602865
 **Repo:** https://github.com/huytd2109/K4-Track02-Day17-TrinhDucHuy-2A202602865-DataPipelineEngineering
-**Commit bài nộp:**
+**Commit bài nộp:** 6d9b494355715b6c927710a0c5bbee6178e4e163
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Codex hỗ trợ viết code
 **Nguồn tham khảo khác (nếu có):**
 
