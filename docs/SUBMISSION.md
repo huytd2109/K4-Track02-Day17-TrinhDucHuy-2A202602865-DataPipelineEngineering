@@ -104,13 +104,13 @@ try {
 Khi chưa sửa đề bài, verify và một số tests fail là bình thường.
 Trước khi nộp, kiểm tra:
 
-- [ ] Verify đạt `18/18 — ALL PASS`; pytest không còn test fail.
-- [ ] Rerun đạt `PASS`: checksum của fresh build và ba lần chạy lại bằng nhau.
-- [ ] P99 lateness đã được đo từ Bronze và ghi trong REPORT.
-- [ ] dbt build thành công; parity đạt `PARITY`.
-- [ ] REPORT đã điền đầy đủ; output lấy từ lần chạy trên code bài nộp.
-- [ ] `submission/checksums.txt` và các thay đổi đã commit, push lên GitHub.
-- [ ] Tên repo đúng; URL mở được khi chưa đăng nhập; đã nộp URL trên LMS.
-- [ ] Repo không chứa secret hay dữ liệu khách hàng thật.
+- [x] Verify đạt `18/18 — ALL PASS`; pytest không còn test fail.
+- [x] Rerun đạt `PASS`: checksum của fresh build và ba lần chạy lại bằng nhau.
+- [x] P99 lateness đã được đo từ Bronze và ghi trong REPORT.
+- [x] dbt build thành công; parity đạt `PARITY`.
+- [x] REPORT đã điền đầy đủ; output lấy từ lần chạy trên code bài nộp.
+- [x] `submission/checksums.txt` và các thay đổi đã commit, push lên GitHub.
+- [x] Tên repo đúng; URL mở được khi chưa đăng nhập; đã nộp URL trên LMS.
+- [x] Repo không chứa secret hay dữ liệu khách hàng thật.
 
 Tiêu chí và điểm: [RUBRIC.md](RUBRIC.md). Các mốc thực hành: [CHECKPOINTS.md](CHECKPOINTS.md).
